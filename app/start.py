@@ -1,1 +1,1 @@
-print('Version 2 installed using USB') 
+print('Version 1.0.2 installed') 
